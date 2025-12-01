@@ -72,7 +72,7 @@
     {
         "timestamp": 1764319830,
         "from_user": "6283197301645@c.us",
-        "to_user": "628133969 1260@c.us",
+        "to_user": "6281339691260@c.us",
         "message": "kalo mau pake waha bis tapi cuma bisa last chat",
         "datetime": "28/11/25 15:50:30"
     },
@@ -698,5 +698,1664 @@
         "to_user": "6283197301645@c.us",
         "message": "Oke udah good kok dipus aja di repository",
         "datetime": "04/11/25 22:05:24"
+    },
+    {
+        "timestamp": 1762268385,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Besok tak lanjut lagi",
+        "datetime": "04/11/25 21:59:45"
+    },
+    {
+        "timestamp": 1762268336,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Btw itu hasil claude loh mas, aku cuma ngasih parameter doang",
+        "datetime": "04/11/25 21:58:56"
+    },
+    {
+        "timestamp": 1762268314,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Yaa",
+        "datetime": "04/11/25 21:58:34"
+    },
+    {
+        "timestamp": 1762268291,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 21:58:11"
+    },
+    {
+        "timestamp": 1762268289,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Judulnya ganti besok aja",
+        "datetime": "04/11/25 21:58:09"
+    },
+    {
+        "timestamp": 1762268248,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 21:57:28"
+    },
+    {
+        "timestamp": 1762268245,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 21:57:25"
+    },
+    {
+        "timestamp": 1762264499,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "okk bentar tak ganti dulu",
+        "datetime": "04/11/25 20:54:59"
+    },
+    {
+        "timestamp": 1762262947,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Betul",
+        "datetime": "04/11/25 20:29:07"
+    },
+    {
+        "timestamp": 1762262935,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "harus diubah ke json kah?",
+        "datetime": "04/11/25 20:28:55"
+    },
+    {
+        "timestamp": 1762262903,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ok mas tak coba kulik2 dulu",
+        "datetime": "04/11/25 20:28:23"
+    },
+    {
+        "timestamp": 1762262620,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Tembak lewat weekend jadi ada istilahnya namanya bridging",
+        "datetime": "04/11/25 20:23:40"
+    },
+    {
+        "timestamp": 1762262609,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Fast api, nanti tak",
+        "datetime": "04/11/25 20:23:29"
+    },
+    {
+        "timestamp": 1762262575,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Betul pakai",
+        "datetime": "04/11/25 20:22:55"
+    },
+    {
+        "timestamp": 1762262540,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "okk, tadi aku udah nyoba cari tahu bedanya apa trus kalo pakai web API itu nanti mau dibikin lewat library aja? pakai fastapi? trus datanya kesimpen pakai csv. apa aku harus ubah dulu ke json?",
+        "datetime": "04/11/25 20:22:20"
+    },
+    {
+        "timestamp": 1762262328,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Dikit misalnya kalau web prime waktu kan itu adalah cara cepat buat bikin web ya kalau kita bikin core system tuh kita bikin pondasi untuk sistem tertentu jadi bisa pakai framework bisa nanti kalau bikin core system",
+        "datetime": "04/11/25 20:18:48"
+    },
+    {
+        "timestamp": 1762262286,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "bedo karo web framework ta?",
+        "datetime": "04/11/25 20:18:06"
+    },
+    {
+        "timestamp": 1762255768,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "web API aja aku nanti tembak pake express",
+        "datetime": "04/11/25 18:29:28"
+    },
+    {
+        "timestamp": 1762255362,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ok masss",
+        "datetime": "04/11/25 18:22:42"
+    },
+    {
+        "timestamp": 1762255191,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "gpp coba buat di pypi atau jadi web ya nanti tak buatin core webnya",
+        "datetime": "04/11/25 18:19:51"
+    },
+    {
+        "timestamp": 1762254974,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "belum ada update apa2",
+        "datetime": "04/11/25 18:16:14"
+    },
+    {
+        "timestamp": 1762254968,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "tapi itu terakhir cuma tanggal 23 bulan kemarin",
+        "datetime": "04/11/25 18:16:08"
+    },
+    {
+        "timestamp": 1762254954,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ok mas",
+        "datetime": "04/11/25 18:15:54"
+    },
+    {
+        "timestamp": 1762252602,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sip sip sip satu situs dulu Ki",
+        "datetime": "04/11/25 17:36:42"
+    },
+    {
+        "timestamp": 1762252568,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "hasil dari prompting AI gak dapet alhasil pakai logic bikinan ndiri malah dapet. tinggal situs lain",
+        "datetime": "04/11/25 17:36:08"
+    },
+    {
+        "timestamp": 1762251406,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sippp",
+        "datetime": "04/11/25 17:16:46"
+    },
+    {
+        "timestamp": 1762250443,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "update",
+        "datetime": "04/11/25 17:00:43"
+    },
+    {
+        "timestamp": 1762250034,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "masih begini, logic untuk scraping situs lain belum tak benerin",
+        "datetime": "04/11/25 16:53:54"
+    },
+    {
+        "timestamp": 1762216410,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Okeyy",
+        "datetime": "04/11/25 07:33:30"
+    },
+    {
+        "timestamp": 1762216370,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Iya mas",
+        "datetime": "04/11/25 07:32:50"
+    },
+    {
+        "timestamp": 1762215743,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Gpp aman, lain kali, kasi alasan yang jelas ya, izin nya,",
+        "datetime": "04/11/25 07:22:23"
+    },
+    {
+        "timestamp": 1762215660,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 07:21:00"
+    },
+    {
+        "timestamp": 1762215590,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Tapi aku tetep kerja kok mas",
+        "datetime": "04/11/25 07:19:50"
+    },
+    {
+        "timestamp": 1762215574,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Ooo okeyy",
+        "datetime": "04/11/25 07:19:34"
+    },
+    {
+        "timestamp": 1762215546,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Sensei ada masalah keluarga (urusan keluarga maskute)",
+        "datetime": "04/11/25 07:19:06"
+    },
+    {
+        "timestamp": 1762215475,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Bukann",
+        "datetime": "04/11/25 07:17:55"
+    },
+    {
+        "timestamp": 1762215470,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Gaada motornjuga?",
+        "datetime": "04/11/25 07:17:50"
+    },
+    {
+        "timestamp": 1762215462,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sensei kenapa?",
+        "datetime": "04/11/25 07:17:42"
+    },
+    {
+        "timestamp": 1762215443,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Gak ada motor, sensei juga gak bisa berangkat jadi aku gak ada tumpangan",
+        "datetime": "04/11/25 07:17:23"
+    },
+    {
+        "timestamp": 1762215402,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Mingdep",
+        "datetime": "04/11/25 07:16:42"
+    },
+    {
+        "timestamp": 1762215394,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Sampean jadi pulangnya kapan?",
+        "datetime": "04/11/25 07:16:34"
+    },
+    {
+        "timestamp": 1762215393,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kenapa?",
+        "datetime": "04/11/25 07:16:33"
+    },
+    {
+        "timestamp": 1762215385,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Besok aku baru berangkat",
+        "datetime": "04/11/25 07:16:25"
+    },
+    {
+        "timestamp": 1762215378,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Yaa",
+        "datetime": "04/11/25 07:16:18"
+    },
+    {
+        "timestamp": 1762215377,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Adewe ijin remote untuk hari ini ya",
+        "datetime": "04/11/25 07:16:17"
+    },
+    {
+        "timestamp": 1762215367,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas ferr",
+        "datetime": "04/11/25 07:16:07"
+    },
+    {
+        "timestamp": 1762134689,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Wokee",
+        "datetime": "03/11/25 08:51:29"
+    },
+    {
+        "timestamp": 1762126430,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "tiatii",
+        "datetime": "03/11/25 06:33:50"
+    },
+    {
+        "timestamp": 1762126425,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "siapp",
+        "datetime": "03/11/25 06:33:45"
+    },
+    {
+        "timestamp": 1762126417,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "aku ada deadline soale",
+        "datetime": "03/11/25 06:33:37"
+    },
+    {
+        "timestamp": 1762126402,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "ikut wong gajadi pulang",
+        "datetime": "03/11/25 06:33:22"
+    },
+    {
+        "timestamp": 1762126392,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "dimejaku",
+        "datetime": "03/11/25 06:33:12"
+    },
+    {
+        "timestamp": 1762126160,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ke GIK",
+        "datetime": "03/11/25 06:29:20"
+    },
+    {
+        "timestamp": 1762126156,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas mengko aku ke jogja",
+        "datetime": "03/11/25 06:29:16"
+    },
+    {
+        "timestamp": 1762123282,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Oh iya buku ku mas yg io principe di mana ya?",
+        "datetime": "03/11/25 05:41:22"
+    },
+    {
+        "timestamp": 1762123265,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Berarti sampean gak ikut?",
+        "datetime": "03/11/25 05:41:05"
+    },
+    {
+        "timestamp": 1762123253,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Nanti ada acara jogjadev",
+        "datetime": "03/11/25 05:40:53"
+    },
+    {
+        "timestamp": 1762123235,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas",
+        "datetime": "03/11/25 05:40:35"
+    },
+    {
+        "timestamp": 1762097434,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "https://otakudesu.best/anime/tomodachi-imouto-dake-uzai-sub-indo/\n\nbagus ki nyeritain gimana struggle nya bagun studio game",
+        "datetime": "02/11/25 22:30:34"
+    },
+    {
+        "timestamp": 1761716904,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Okeyy",
+        "datetime": "29/10/25 12:48:24"
+    },
+    {
+        "timestamp": 1761716703,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "yang hp ku itu",
+        "datetime": "29/10/25 12:45:03"
+    },
+    {
+        "timestamp": 1761716698,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "sampean diem aja ya",
+        "datetime": "29/10/25 12:44:58"
+    },
+    {
+        "timestamp": 1761716687,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas",
+        "datetime": "29/10/25 12:44:47"
+    },
+    {
+        "timestamp": 1761625804,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "wednesdayIsRabu",
+        "datetime": "28/10/25 11:30:04"
+    },
+    {
+        "timestamp": 1761530511,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Vyaa",
+        "datetime": "27/10/25 09:01:51"
+    },
+    {
+        "timestamp": 1761526353,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "halooo]",
+        "datetime": "27/10/25 07:52:33"
+    },
+    {
+        "timestamp": 1761526350,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "aku ke kampus ya",
+        "datetime": "27/10/25 07:52:30"
+    },
+    {
+        "timestamp": 1761526347,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas feri",
+        "datetime": "27/10/25 07:52:27"
+    },
+    {
+        "timestamp": 1761490090,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas besok dikampus nggak?",
+        "datetime": "26/10/25 21:48:10"
+    },
+    {
+        "timestamp": 1761490083,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "kira kira aku mending ke kampus atau engga?",
+        "datetime": "26/10/25 21:48:03"
+    },
+    {
+        "timestamp": 1761490072,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "besok kan sensei sama una baru pulang",
+        "datetime": "26/10/25 21:47:52"
+    },
+    {
+        "timestamp": 1761490066,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas ffer",
+        "datetime": "26/10/25 21:47:46"
+    },
+    {
+        "timestamp": 1761451004,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Yapp",
+        "datetime": "26/10/25 10:56:44"
+    },
+    {
+        "timestamp": 1761435423,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ikrikaf taa",
+        "datetime": "26/10/25 06:37:03"
+    },
+    {
+        "timestamp": 1761435419,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ealahh",
+        "datetime": "26/10/25 06:36:59"
+    },
+    {
+        "timestamp": 1761398503,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Alu lg di masjid :)",
+        "datetime": "25/10/25 20:21:43"
+    },
+    {
+        "timestamp": 1761398482,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Besok kampus kututup sampe senen",
+        "datetime": "25/10/25 20:21:22"
+    },
+    {
+        "timestamp": 1761398470,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Ki",
+        "datetime": "25/10/25 20:21:10"
+    },
+    {
+        "timestamp": 1761388194,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ok mads",
+        "datetime": "25/10/25 17:29:54"
+    },
+    {
+        "timestamp": 1761376397,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "gpp kamu kekampus aja",
+        "datetime": "25/10/25 14:13:17"
+    },
+    {
+        "timestamp": 1761373535,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "aku ada janji sama temenku soale",
+        "datetime": "25/10/25 13:25:35"
+    },
+    {
+        "timestamp": 1761373527,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ambil cas",
+        "datetime": "25/10/25 13:25:27"
+    },
+    {
+        "timestamp": 1761373522,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "besok aku kekampus ms",
+        "datetime": "25/10/25 13:25:22"
+    },
+    {
+        "timestamp": 1761373516,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "trus ini saya gimana😭😭",
+        "datetime": "25/10/25 13:25:16"
+    },
+    {
+        "timestamp": 1761320676,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Pake cas iphone kampus",
+        "datetime": "24/10/25 22:44:36"
+    },
+    {
+        "timestamp": 1761320668,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sek punyamu lighting to",
+        "datetime": "24/10/25 22:44:28"
+    },
+    {
+        "timestamp": 1761320657,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Neng mejo td punya una",
+        "datetime": "24/10/25 22:44:17"
+    },
+    {
+        "timestamp": 1761320647,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Wakakak",
+        "datetime": "24/10/25 22:44:07"
+    },
+    {
+        "timestamp": 1761320633,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "iki aku nggo laptop btw",
+        "datetime": "24/10/25 22:43:53"
+    },
+    {
+        "timestamp": 1761320620,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ha py yo mass",
+        "datetime": "24/10/25 22:43:40"
+    },
+    {
+        "timestamp": 1761319186,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kok podo una to ki🤣🤣",
+        "datetime": "24/10/25 22:19:46"
+    },
+    {
+        "timestamp": 1761093745,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Ya",
+        "datetime": "22/10/25 07:42:25"
+    },
+    {
+        "timestamp": 1761089370,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Berarti kita dirumah aja ya mas?",
+        "datetime": "22/10/25 06:29:30"
+    },
+    {
+        "timestamp": 1761066887,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ok mass",
+        "datetime": "22/10/25 00:14:47"
+    },
+    {
+        "timestamp": 1761066885,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Hmmmm",
+        "datetime": "22/10/25 00:14:45"
+    },
+    {
+        "timestamp": 1761066084,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "kalo wednesdev besok kan remote kalo terkait capstone yang terlibat ya dateng ke kampus",
+        "datetime": "22/10/25 00:01:24"
+    },
+    {
+        "timestamp": 1761065939,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Yg capstone gimana?",
+        "datetime": "21/10/25 23:58:59"
+    },
+    {
+        "timestamp": 1761065932,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Besok kita ke kampus nggak?",
+        "datetime": "21/10/25 23:58:52"
+    },
+    {
+        "timestamp": 1761065925,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas",
+        "datetime": "21/10/25 23:58:45"
+    },
+    {
+        "timestamp": 1760748362,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Siap mas",
+        "datetime": "18/10/25 07:46:02"
+    },
+    {
+        "timestamp": 1762268385,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Besok tak lanjut lagi",
+        "datetime": "04/11/25 21:59:45"
+    },
+    {
+        "timestamp": 1762268336,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Btw itu hasil claude loh mas, aku cuma ngasih parameter doang",
+        "datetime": "04/11/25 21:58:56"
+    },
+    {
+        "timestamp": 1762268314,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Yaa",
+        "datetime": "04/11/25 21:58:34"
+    },
+    {
+        "timestamp": 1762268291,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 21:58:11"
+    },
+    {
+        "timestamp": 1762268289,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Judulnya ganti besok aja",
+        "datetime": "04/11/25 21:58:09"
+    },
+    {
+        "timestamp": 1762268248,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 21:57:28"
+    },
+    {
+        "timestamp": 1762268245,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 21:57:25"
+    },
+    {
+        "timestamp": 1762264499,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "okk bentar tak ganti dulu",
+        "datetime": "04/11/25 20:54:59"
+    },
+    {
+        "timestamp": 1762262947,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Betul",
+        "datetime": "04/11/25 20:29:07"
+    },
+    {
+        "timestamp": 1762262935,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "harus diubah ke json kah?",
+        "datetime": "04/11/25 20:28:55"
+    },
+    {
+        "timestamp": 1762262903,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ok mas tak coba kulik2 dulu",
+        "datetime": "04/11/25 20:28:23"
+    },
+    {
+        "timestamp": 1762262620,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Tembak lewat weekend jadi ada istilahnya namanya bridging",
+        "datetime": "04/11/25 20:23:40"
+    },
+    {
+        "timestamp": 1762262609,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Fast api, nanti tak",
+        "datetime": "04/11/25 20:23:29"
+    },
+    {
+        "timestamp": 1762262575,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Betul pakai",
+        "datetime": "04/11/25 20:22:55"
+    },
+    {
+        "timestamp": 1762262540,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "okk, tadi aku udah nyoba cari tahu bedanya apa trus kalo pakai web API itu nanti mau dibikin lewat library aja? pakai fastapi? trus datanya kesimpen pakai csv. apa aku harus ubah dulu ke json?",
+        "datetime": "04/11/25 20:22:20"
+    },
+    {
+        "timestamp": 1762262328,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Dikit misalnya kalau web prime waktu kan itu adalah cara cepat buat bikin web ya kalau kita bikin core system tuh kita bikin pondasi untuk sistem tertentu jadi bisa pakai framework bisa nanti kalau bikin core system",
+        "datetime": "04/11/25 20:18:48"
+    },
+    {
+        "timestamp": 1762262286,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "bedo karo web framework ta?",
+        "datetime": "04/11/25 20:18:06"
+    },
+    {
+        "timestamp": 1762255768,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "web API aja aku nanti tembak pake express",
+        "datetime": "04/11/25 18:29:28"
+    },
+    {
+        "timestamp": 1762255362,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ok masss",
+        "datetime": "04/11/25 18:22:42"
+    },
+    {
+        "timestamp": 1762255191,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "gpp coba buat di pypi atau jadi web ya nanti tak buatin core webnya",
+        "datetime": "04/11/25 18:19:51"
+    },
+    {
+        "timestamp": 1762254974,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "belum ada update apa2",
+        "datetime": "04/11/25 18:16:14"
+    },
+    {
+        "timestamp": 1762254968,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "tapi itu terakhir cuma tanggal 23 bulan kemarin",
+        "datetime": "04/11/25 18:16:08"
+    },
+    {
+        "timestamp": 1762254954,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ok mas",
+        "datetime": "04/11/25 18:15:54"
+    },
+    {
+        "timestamp": 1762252602,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sip sip sip satu situs dulu Ki",
+        "datetime": "04/11/25 17:36:42"
+    },
+    {
+        "timestamp": 1762252568,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "hasil dari prompting AI gak dapet alhasil pakai logic bikinan ndiri malah dapet. tinggal situs lain",
+        "datetime": "04/11/25 17:36:08"
+    },
+    {
+        "timestamp": 1762251406,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sippp",
+        "datetime": "04/11/25 17:16:46"
+    },
+    {
+        "timestamp": 1762250443,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "update",
+        "datetime": "04/11/25 17:00:43"
+    },
+    {
+        "timestamp": 1762250034,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "masih begini, logic untuk scraping situs lain belum tak benerin",
+        "datetime": "04/11/25 16:53:54"
+    },
+    {
+        "timestamp": 1762216410,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Okeyy",
+        "datetime": "04/11/25 07:33:30"
+    },
+    {
+        "timestamp": 1762216370,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Iya mas",
+        "datetime": "04/11/25 07:32:50"
+    },
+    {
+        "timestamp": 1762215743,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Gpp aman, lain kali, kasi alasan yang jelas ya, izin nya,",
+        "datetime": "04/11/25 07:22:23"
+    },
+    {
+        "timestamp": 1762215660,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "",
+        "datetime": "04/11/25 07:21:00"
+    },
+    {
+        "timestamp": 1762215590,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Tapi aku tetep kerja kok mas",
+        "datetime": "04/11/25 07:19:50"
+    },
+    {
+        "timestamp": 1762215574,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Ooo okeyy",
+        "datetime": "04/11/25 07:19:34"
+    },
+    {
+        "timestamp": 1762215546,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Sensei ada masalah keluarga (urusan keluarga maskute)",
+        "datetime": "04/11/25 07:19:06"
+    },
+    {
+        "timestamp": 1762215475,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Bukann",
+        "datetime": "04/11/25 07:17:55"
+    },
+    {
+        "timestamp": 1762215470,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Gaada motornjuga?",
+        "datetime": "04/11/25 07:17:50"
+    },
+    {
+        "timestamp": 1762215462,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sensei kenapa?",
+        "datetime": "04/11/25 07:17:42"
+    },
+    {
+        "timestamp": 1762215443,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Gak ada motor, sensei juga gak bisa berangkat jadi aku gak ada tumpangan",
+        "datetime": "04/11/25 07:17:23"
+    },
+    {
+        "timestamp": 1762215402,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Mingdep",
+        "datetime": "04/11/25 07:16:42"
+    },
+    {
+        "timestamp": 1762215394,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Sampean jadi pulangnya kapan?",
+        "datetime": "04/11/25 07:16:34"
+    },
+    {
+        "timestamp": 1762215393,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kenapa?",
+        "datetime": "04/11/25 07:16:33"
+    },
+    {
+        "timestamp": 1762215385,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Besok aku baru berangkat",
+        "datetime": "04/11/25 07:16:25"
+    },
+    {
+        "timestamp": 1762215378,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Yaa",
+        "datetime": "04/11/25 07:16:18"
+    },
+    {
+        "timestamp": 1762215377,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Adewe ijin remote untuk hari ini ya",
+        "datetime": "04/11/25 07:16:17"
+    },
+    {
+        "timestamp": 1762215367,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas ferr",
+        "datetime": "04/11/25 07:16:07"
+    },
+    {
+        "timestamp": 1762134689,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Wokee",
+        "datetime": "03/11/25 08:51:29"
+    },
+    {
+        "timestamp": 1762126430,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "tiatii",
+        "datetime": "03/11/25 06:33:50"
+    },
+    {
+        "timestamp": 1762126425,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "siapp",
+        "datetime": "03/11/25 06:33:45"
+    },
+    {
+        "timestamp": 1762126417,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "aku ada deadline soale",
+        "datetime": "03/11/25 06:33:37"
+    },
+    {
+        "timestamp": 1762126402,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "ikut wong gajadi pulang",
+        "datetime": "03/11/25 06:33:22"
+    },
+    {
+        "timestamp": 1762126392,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "dimejaku",
+        "datetime": "03/11/25 06:33:12"
+    },
+    {
+        "timestamp": 1762126160,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ke GIK",
+        "datetime": "03/11/25 06:29:20"
+    },
+    {
+        "timestamp": 1762126156,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas mengko aku ke jogja",
+        "datetime": "03/11/25 06:29:16"
+    },
+    {
+        "timestamp": 1762123282,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Oh iya buku ku mas yg io principe di mana ya?",
+        "datetime": "03/11/25 05:41:22"
+    },
+    {
+        "timestamp": 1762123265,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Berarti sampean gak ikut?",
+        "datetime": "03/11/25 05:41:05"
+    },
+    {
+        "timestamp": 1762123253,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Nanti ada acara jogjadev",
+        "datetime": "03/11/25 05:40:53"
+    },
+    {
+        "timestamp": 1762123235,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas",
+        "datetime": "03/11/25 05:40:35"
+    },
+    {
+        "timestamp": 1762097434,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "https://otakudesu.best/anime/tomodachi-imouto-dake-uzai-sub-indo/\n\nbagus ki nyeritain gimana struggle nya bagun studio game",
+        "datetime": "02/11/25 22:30:34"
+    },
+    {
+        "timestamp": 1761716904,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Okeyy",
+        "datetime": "29/10/25 12:48:24"
+    },
+    {
+        "timestamp": 1761716703,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "yang hp ku itu",
+        "datetime": "29/10/25 12:45:03"
+    },
+    {
+        "timestamp": 1761716698,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "sampean diem aja ya",
+        "datetime": "29/10/25 12:44:58"
+    },
+    {
+        "timestamp": 1761716687,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas",
+        "datetime": "29/10/25 12:44:47"
+    },
+    {
+        "timestamp": 1761625804,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "wednesdayIsRabu",
+        "datetime": "28/10/25 11:30:04"
+    },
+    {
+        "timestamp": 1761530511,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Vyaa",
+        "datetime": "27/10/25 09:01:51"
+    },
+    {
+        "timestamp": 1761526353,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "halooo]",
+        "datetime": "27/10/25 07:52:33"
+    },
+    {
+        "timestamp": 1761526350,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "aku ke kampus ya",
+        "datetime": "27/10/25 07:52:30"
+    },
+    {
+        "timestamp": 1761526347,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas feri",
+        "datetime": "27/10/25 07:52:27"
+    },
+    {
+        "timestamp": 1761490090,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas besok dikampus nggak?",
+        "datetime": "26/10/25 21:48:10"
+    },
+    {
+        "timestamp": 1761490083,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "kira kira aku mending ke kampus atau engga?",
+        "datetime": "26/10/25 21:48:03"
+    },
+    {
+        "timestamp": 1761490072,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "besok kan sensei sama una baru pulang",
+        "datetime": "26/10/25 21:47:52"
+    },
+    {
+        "timestamp": 1761490066,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas ffer",
+        "datetime": "26/10/25 21:47:46"
+    },
+    {
+        "timestamp": 1761451004,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Yapp",
+        "datetime": "26/10/25 10:56:44"
+    },
+    {
+        "timestamp": 1761435423,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ikrikaf taa",
+        "datetime": "26/10/25 06:37:03"
+    },
+    {
+        "timestamp": 1761435419,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ealahh",
+        "datetime": "26/10/25 06:36:59"
+    },
+    {
+        "timestamp": 1761398503,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Alu lg di masjid :)",
+        "datetime": "25/10/25 20:21:43"
+    },
+    {
+        "timestamp": 1761398482,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Besok kampus kututup sampe senen",
+        "datetime": "25/10/25 20:21:22"
+    },
+    {
+        "timestamp": 1761398470,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Ki",
+        "datetime": "25/10/25 20:21:10"
+    },
+    {
+        "timestamp": 1761388194,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ok mads",
+        "datetime": "25/10/25 17:29:54"
+    },
+    {
+        "timestamp": 1761376397,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "gpp kamu kekampus aja",
+        "datetime": "25/10/25 14:13:17"
+    },
+    {
+        "timestamp": 1761373535,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "aku ada janji sama temenku soale",
+        "datetime": "25/10/25 13:25:35"
+    },
+    {
+        "timestamp": 1761373527,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ambil cas",
+        "datetime": "25/10/25 13:25:27"
+    },
+    {
+        "timestamp": 1761373522,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "besok aku kekampus ms",
+        "datetime": "25/10/25 13:25:22"
+    },
+    {
+        "timestamp": 1761373516,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "trus ini saya gimana😭😭",
+        "datetime": "25/10/25 13:25:16"
+    },
+    {
+        "timestamp": 1761320676,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Pake cas iphone kampus",
+        "datetime": "24/10/25 22:44:36"
+    },
+    {
+        "timestamp": 1761320668,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Sek punyamu lighting to",
+        "datetime": "24/10/25 22:44:28"
+    },
+    {
+        "timestamp": 1761320657,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Neng mejo td punya una",
+        "datetime": "24/10/25 22:44:17"
+    },
+    {
+        "timestamp": 1761320647,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Wakakak",
+        "datetime": "24/10/25 22:44:07"
+    },
+    {
+        "timestamp": 1761320633,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "iki aku nggo laptop btw",
+        "datetime": "24/10/25 22:43:53"
+    },
+    {
+        "timestamp": 1761320620,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ha py yo mass",
+        "datetime": "24/10/25 22:43:40"
+    },
+    {
+        "timestamp": 1761319186,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kok podo una to ki🤣🤣",
+        "datetime": "24/10/25 22:19:46"
+    },
+    {
+        "timestamp": 1761093745,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Ya",
+        "datetime": "22/10/25 07:42:25"
+    },
+    {
+        "timestamp": 1761089370,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Berarti kita dirumah aja ya mas?",
+        "datetime": "22/10/25 06:29:30"
+    },
+    {
+        "timestamp": 1761066887,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ok mass",
+        "datetime": "22/10/25 00:14:47"
+    },
+    {
+        "timestamp": 1761066885,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Hmmmm",
+        "datetime": "22/10/25 00:14:45"
+    },
+    {
+        "timestamp": 1761066084,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "kalo wednesdev besok kan remote kalo terkait capstone yang terlibat ya dateng ke kampus",
+        "datetime": "22/10/25 00:01:24"
+    },
+    {
+        "timestamp": 1761065939,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Yg capstone gimana?",
+        "datetime": "21/10/25 23:58:59"
+    },
+    {
+        "timestamp": 1761065932,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Besok kita ke kampus nggak?",
+        "datetime": "21/10/25 23:58:52"
+    },
+    {
+        "timestamp": 1761065925,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas",
+        "datetime": "21/10/25 23:58:45"
+    },
+    {
+        "timestamp": 1760748362,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Siap mas",
+        "datetime": "18/10/25 07:46:02"
+    },
+    {
+        "timestamp": 1758718043,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Py iki mas",
+        "datetime": "24/09/25 19:47:23"
+    },
+    {
+        "timestamp": 1758718031,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Hehh",
+        "datetime": "24/09/25 19:47:11"
+    },
+    {
+        "timestamp": 1758712667,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Atau dikasih tugas dulu ya",
+        "datetime": "24/09/25 18:17:47"
+    },
+    {
+        "timestamp": 1758712657,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kayae kelas libur dulu bs ndak ya di reschedule",
+        "datetime": "24/09/25 18:17:37"
+    },
+    {
+        "timestamp": 1758712638,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kii",
+        "datetime": "24/09/25 18:17:18"
+    },
+    {
+        "timestamp": 1758592951,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "https://www.fiverr.com/monalisaback/buying?source=avatar_menu_profile",
+        "datetime": "23/09/25 09:02:31"
+    },
+    {
+        "timestamp": 1758545624,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Aku wes standby",
+        "datetime": "22/09/25 19:53:44"
+    },
+    {
+        "timestamp": 1758545619,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ayo mas",
+        "datetime": "22/09/25 19:53:39"
+    },
+    {
+        "timestamp": 1758545614,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Heh salah ges",
+        "datetime": "22/09/25 19:53:34"
+    },
+    {
+        "timestamp": 1758545585,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "ngechat neng ndi pak",
+        "datetime": "22/09/25 19:53:05"
+    },
+    {
+        "timestamp": 1758545434,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "helloo",
+        "datetime": "22/09/25 19:50:34"
+    },
+    {
+        "timestamp": 1758545428,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "halo gess",
+        "datetime": "22/09/25 19:50:28"
+    },
+    {
+        "timestamp": 1758545095,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "ok ams",
+        "datetime": "22/09/25 19:44:55"
+    },
+    {
+        "timestamp": 1758544920,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Akii km buka dulu ya sy lg sakit perut ini nanti sy nyusul agak telat",
+        "datetime": "22/09/25 19:42:00"
+    },
+    {
+        "timestamp": 1757559573,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "https://www.youtube.com/watch?v=SLBpPM3X5GU&list=RDSLBpPM3X5GU&start_radio=1",
+        "datetime": "11/09/25 09:59:33"
+    },
+    {
+        "timestamp": 1757484481,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Okkk",
+        "datetime": "10/09/25 13:08:01"
+    },
+    {
+        "timestamp": 1757483517,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Aku lagi keluar sama mas diky mas adi",
+        "datetime": "10/09/25 12:51:57"
+    },
+    {
+        "timestamp": 1757483487,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Aki, hari ini panjutin study case ya",
+        "datetime": "10/09/25 12:51:27"
+    },
+    {
+        "timestamp": 1756966687,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "oalah okok",
+        "datetime": "04/09/25 13:18:07"
+    },
+    {
+        "timestamp": 1756966586,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Wngga ini mau balik",
+        "datetime": "04/09/25 13:16:26"
+    },
+    {
+        "timestamp": 1756966526,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "katane lama ndajk",
+        "datetime": "04/09/25 13:15:26"
+    },
+    {
+        "timestamp": 1756966522,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "mas dicari anak2",
+        "datetime": "04/09/25 13:15:22"
+    },
+    {
+        "timestamp": 1756966339,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Iya",
+        "datetime": "04/09/25 13:12:19"
+    },
+    {
+        "timestamp": 1756965159,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "jam 1 kan?",
+        "datetime": "04/09/25 12:52:39"
+    },
+    {
+        "timestamp": 1756965155,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "okk mas",
+        "datetime": "04/09/25 12:52:35"
+    },
+    {
+        "timestamp": 1756965064,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Oastikan mengerjakan yaks",
+        "datetime": "04/09/25 12:51:04"
+    },
+    {
+        "timestamp": 1756965051,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Aki nanti pantau aja ya kelasnya sy mau keluar sebentar",
+        "datetime": "04/09/25 12:50:51"
+    },
+    {
+        "timestamp": 1756612291,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Ok mass",
+        "datetime": "31/08/25 10:51:31"
+    },
+    {
+        "timestamp": 1756612232,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kasi tau naura jg",
+        "datetime": "31/08/25 10:50:32"
+    },
+    {
+        "timestamp": 1756612227,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Kayanya si aman cb besok ku cek ya",
+        "datetime": "31/08/25 10:50:27"
+    },
+    {
+        "timestamp": 1756612214,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Iya",
+        "datetime": "31/08/25 10:50:14"
+    },
+    {
+        "timestamp": 1756611857,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Besok masih buka atau emggak?",
+        "datetime": "31/08/25 10:44:17"
+    },
+    {
+        "timestamp": 1756611845,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Aman gak mas?",
+        "datetime": "31/08/25 10:44:05"
+    },
+    {
+        "timestamp": 1756611842,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Daerah kita tuh daerah caturtunggal gak sih?",
+        "datetime": "31/08/25 10:44:02"
+    },
+    {
+        "timestamp": 1756611824,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Mas",
+        "datetime": "31/08/25 10:43:44"
+    },
+    {
+        "timestamp": 1756526180,
+        "from_user": "6281339691260@c.us",
+        "to_user": "6283197301645@c.us",
+        "message": "Yapp",
+        "datetime": "30/08/25 10:56:20"
+    },
+    {
+        "timestamp": 1756525812,
+        "from_user": "6283197301645@c.us",
+        "to_user": "6281339691260@c.us",
+        "message": "Loh mas tadi malam kah??",
+        "datetime": "30/08/25 10:50:12"
     }
 ]
