@@ -1,26 +1,46 @@
-# WhatsApp Message Parser
+# WhatsApp Data Processor
 
-A clean and efficient Python application for parsing and analyzing WhatsApp message data exported from Evolution API.
+A Python application for processing WhatsApp contact and message data exported from Evolution API. Extracts contacts and messages from JSON files with customizable output options.
 
 ## Features
 
-- **Automatic file detection** - Finds all JSON response files automatically
-- **Message statistics** - Provides insights about sent/received messages
-- **Search functionality** - Filter messages by text content
-- **Readable timestamps** - Converts Unix timestamps to human-readable format
-- **Error handling** - Robust error handling for corrupt/missing files
-- **Clean logging** - Informative logging for debugging and monitoring
+- **Contact Processing** - Extract WhatsApp contact information from chat data
+- **Message Processing** - Process WhatsApp messages with customizable field selection
+- **Customizable Output** - Choose specific fields to include in output JSON
+- **Flexible File Handling** - Support for custom input/output files
+- **Terminal Preview** - Preview results in terminal with pretty printing
+- **Data Append** - Automatically appends new data to existing output files
+- **Readable Timestamps** - Converts Unix timestamps to human-readable format
+- **Auto Output Folder** - Automatically creates output/ folder for organized data storage
+- **UTF-8 Support** - Proper handling of international characters and emojis
+- **Error Handling** - Comprehensive error handling for missing files and invalid JSON
 
 ## Project Structure
 
 ```
 .
-├── main.py                 # Main application file
-├── config.py              # Configuration settings
-├── requirements.txt       # Python dependencies
-├── .env                   # Environment variables
-├── docker-compose.yml     # PostgreSQL + Evolution API setup
-└── response_*.json        # WhatsApp message export files
+├── chatsId.py              # Contact processing script
+├── messagesId.py            # Message processing script with customizable output
+├── requirements.txt         # Python dependencies
+├── CARA_PAKAI.txt          # Detailed usage instructions (Indonesian)
+├── chatId/                 # Contact data files
+│   ├── ex1.json           # 20 contacts sample
+│   ├── ex2.json           # 20 contacts sample
+│   ├── ex3.json           # 20 contacts sample
+│   ├── ex4.json           # 20 contacts sample
+│   └── ex5.json           # 20 contacts sample
+├── messagesId/             # Message data files
+│   ├── example1.json      # 100 messages sample
+│   ├── example2.json      # 100 messages sample
+│   ├── example3.json      # 100 messages sample
+│   └── example4.json      # 100 messages sample
+├── output/                 # Output folder for processed data (auto-created)
+│   ├── kontak_saya.json   # Output file for contacts (auto-generated)
+│   └── data_saya.json     # Output file for messages (auto-generated)
+├── info/                   # Analysis and documentation files
+│   └── analysis_messagesId.py.md  # Script analysis report
+├── kontak_saya.json        # Output file for contacts (legacy)
+└── data_saya.json         # Output file for messages (legacy)
 ```
 
 ## Quick Start
@@ -30,44 +50,68 @@ A clean and efficient Python application for parsing and analyzing WhatsApp mess
    pip install -r requirements.txt
    ```
 
-2. **Run the application:**
+2. **Process contacts:**
    ```bash
-   python main.py
+   python chatsId.py
+   ```
+
+3. **Process messages:**
+   ```bash
+   python messagesId.py
    ```
 
 ## Usage Examples
 
-### Basic Usage
-```python
-from main import WhatsAppMessageParser
+### Contact Processing (chatsId.py)
 
-# Initialize parser
-parser = WhatsAppMessageParser(".")
+```bash
+# Basic usage - uses default ex1.json -> kontak_saya.json
+python chatsId.py
 
-# Load all JSON files
-parser.load_all_files()
+# Specify input file
+python chatsId.py ex2.json
 
-# Display messages
-parser.display_messages(limit=20)
+# Specify input and output files
+python chatsId.py ex3.json custom_contacts.json
+
+# Use full path
+python chatsId.py /path/to/contacts.json /path/to/output.json
 ```
 
-### Search Messages
-```python
-# Search for specific text
-parser.display_messages(filter_text="hello")
+### Message Processing (messagesId.py)
 
-# Get statistics
-stats = parser.get_message_stats()
-print(f"Total messages: {stats['total_messages']}")
+```bash
+# Basic usage - default fields (timestamp,from_user,to_user,message,datetime)
+python messagesId.py
+
+# Custom fields selection
+python messagesId.py --fields "timestamp,message,datetime"
+
+# Custom output file (automatically saved in output folder)
+python messagesId.py -o custom_messages.json
+
+# Terminal preview with pretty printing
+python messagesId.py --pretty
+
+# Terminal only mode (no file saved)
+python messagesId.py --terminal-only --pretty
+
+# Combined options (output saved in output/ folder)
+python messagesId.py example2.json --fields "from_user,to_user,message" -o output.json --pretty
+
+# Available fields for messages:
+# - timestamp: Unix timestamp
+# - from_user: Sender phone number
+# - to_user: Receiver phone number
+# - message: Message content
+# - datetime: Formatted timestamp (DD/MM/YY HH:MM:SS)
+# - id: Message unique ID
+# - fromMe: Boolean (from yourself?)
+# - source: Message source
+# - hasMedia: Boolean (has media attachment?)
 ```
 
 ## Configuration
-
-The application can be configured using:
-
-1. **Environment variables** (`.env` file)
-2. **Configuration file** (`config.py`)
-3. **Command-line arguments** (future feature)
 
 ## JSON File Format
 

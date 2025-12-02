@@ -1,0 +1,96 @@
+📋 CARA PAKAI WHATSAPP DATA PROCESSOR (UPDATED)
+===============================================
+
+📁 FILE TERSEDIA:
+├── chatId/
+│   ├── ex1.json    (20 kontak)
+│   ├── ex2.json    (20 kontak)
+│   ├── ex3.json    (20 kontak)
+│   ├── ex4.json    (20 kontak)
+│   └── ex5.json    (20 kontak)
+│
+└── messagesId/
+    ├── example1.json (100 pesan)
+    ├── example2.json (100 pesan)
+    ├── example3.json (100 pesan)
+    └── example4.json (100 pesan)
+
+📂 FOLDER OUTPUT:
+└── output/                     (Auto-created)
+    ├── data_saya.json         (Default output for messages)
+    └── [custom files]         (Your custom output files)
+
+🔧 CARA MENGGUNAKAN:
+
+1️⃣ PROSES KONTAK (chatsId.py) - SEDERHANA:
+   python chatsId.py [input_file] [output_file]
+
+   Contoh:
+   - python chatsId.py                           # Default: ex1.json -> kontak_saya.json
+   - python chatsId.py ex2.json                  # ex2.json -> kontak_saya.json
+   - python chatsId.py ex3.json custom_output.json # ex3.json -> custom_output.json
+
+2️⃣ PROSES PESAN (messagesId.py) - FLEKSIBEL & CUSTOMIZABLE:
+
+   🔹 BASIC USAGE:
+   python messagesId.py                           # Default fields ke output/data_saya.json
+
+   🔹 CUSTOM FIELDS (Pilih field yang mau ditampilkan):
+   python messagesId.py --fields "timestamp,message"
+   python messagesId.py --fields "from_user,to_user,message,datetime"
+   python messagesId.py --fields "id,fromMe,hasMedia"
+
+   🔹 CUSTOM OUTPUT FILE:
+   python messagesId.py -o custom_messages.json         # -> output/custom_messages.json
+   python messagesId.py example2.json -o hasil.json      # -> output/hasil.json
+
+   🔹 TERMINAL PREVIEW:
+   python messagesId.py --pretty                 # Lihat hasil di terminal
+   python messagesId.py --terminal-only --pretty  # Hanya di terminal, tidak save file
+
+   🔹 COMBINED OPTIONS:
+   python messagesId.py example3.json --fields "from_user,message" -o hasil.json --pretty
+
+🎯 AVAILABLE FIELDS UNTUK PESAN:
+├── timestamp      # Unix timestamp asli
+├── from_user      # Nomor pengirim
+├── to_user        # Nomor penerima
+├── message        # Isi pesan
+├── datetime       # Timestamp format DD/MM/YY HH:MM:SS
+├── id             # ID unik pesan
+├── fromMe         # Boolean (dari kamu?)
+├── source         # Sumber pesan
+└── hasMedia       # Boolean (ada lampiran?)
+
+💡 CONTOH KOMBINASI LENGKAP:
+
+# Proses semua contacts ke file custom
+python chatsId.py ex1.json all_contacts.json
+
+# Proses messages dengan field tertentu + preview di terminal
+python messagesId.py --fields "timestamp,from_user,message" --pretty
+
+# Proses messages dari file tertentu ke output file + preview
+python messagesId.py example4.json --fields "datetime,message" -o pesan_terpilih.json --pretty
+
+# Hanya lihat di terminal tanpa save file
+python messagesId.py --terminal-only --fields "from_user,to_user,message" --pretty
+
+📋 CATATAN:
+- File input otomatis dicari di folder yang sesuai (chatId/ atau messagesId/)
+- 🆕 Output otomatis tersimpan di folder "output/" (auto-created)
+- Data yang sudah ada akan ditambahkan (append), tidak ditimpa
+- Gunakan --pretty untuk melihat hasil dengan format rapi di terminal
+- Gunakan --terminal-only untuk preview tanpa menyimpan file
+- Fields dipisahkan dengan koma, tanpa spasi (atau dengan spasi, sama saja)
+
+✅ FITUR TERBARU:
+- ✨ Custom field selection untuk messages
+- ✨ Terminal preview dengan pretty printing
+- ✨ Terminal-only mode untuk testing
+- ✨ Flexible output file naming
+- ✨ Input file dari folder mana saja
+- ✨ 🆕 Output folder otomatis terbuat di "output/"
+- ✨ 🆕 Auto-append data ke existing files
+- ✨ 🆕 UTF-8 encoding untuk karakter internasional
+- ✨ Help commands otomatis dengan -h/--help
