@@ -14,6 +14,7 @@ A Python application for processing WhatsApp contact and message data exported f
 - **Auto Output Folder** - Automatically creates output/ folder for organized data storage
 - **UTF-8 Support** - Proper handling of international characters and emojis
 - **Error Handling** - Comprehensive error handling for missing files and invalid JSON
+- **Vercel Deployment** - Deploy output files to Vercel with automatic JSON API endpoints
 
 ## Project Structure
 
@@ -34,11 +35,22 @@ A Python application for processing WhatsApp contact and message data exported f
 │   ├── example2.json      # 100 messages sample
 │   ├── example3.json      # 100 messages sample
 │   └── example4.json      # 100 messages sample
-├── output/                 # Output folder for processed data (auto-created)
+├── output/                 # Output folder for processed data (auto-generated)
 │   ├── kontak_saya.json   # Output file for contacts (auto-generated)
+│   ├── coworker.json      # Output file for coworker contacts
+│   ├── devteam.json       # Output file for devteam contacts
+│   ├── response.json      # Response data file
 │   └── data_saya.json     # Output file for messages (auto-generated)
 ├── info/                   # Analysis and documentation files
 │   └── analysis_messagesId.py.md  # Script analysis report
+├── api/                    # Vercel API routes
+│   ├── index.js           # Root overview endpoint
+│   ├── [file].js          # Dynamic file endpoint
+│   ├── kontak_saya.js     # Contacts endpoint
+│   ├── coworker.js        # Coworker endpoint
+│   └── devteam.js         # Devteam endpoint
+├── vercel.json            # Vercel configuration
+├── package.json           # Vercel deployment package
 ├── kontak_saya.json        # Output file for contacts (legacy)
 └── data_saya.json         # Output file for messages (legacy)
 ```
@@ -129,6 +141,79 @@ Expected JSON format (from Evolution API):
   }
 ]
 ```
+
+## Vercel Deployment
+
+Deploy your processed JSON files to Vercel for easy API access:
+
+### 🚀 Quick Deployment
+
+1. **Install Vercel CLI:**
+   ```bash
+   npm i -g vercel
+   ```
+
+2. **Login to Vercel:**
+   ```bash
+   vercel login
+   ```
+
+3. **Deploy from project directory:**
+   ```bash
+   vercel
+   ```
+
+### 🌐 Available Endpoints
+
+After deployment, your data will be accessible at:
+
+- **Root Overview**: `https://your-domain.vercel.app/`
+  - Interactive HTML page showing all available JSON files
+  - File size and last modified information
+  - Direct links to view each JSON file
+
+- **Specific JSON Files**:
+  - `https://your-domain.vercel.app/kontak_saya.json` - Contacts data
+  - `https://your-domain.vercel.app/coworker.json` - Coworker contacts
+  - `https://your-domain.vercel.app/devteam.json` - Devteam contacts
+  - `https://your-domain.vercel.app/any-file.json` - Any JSON file in output/
+
+- **Dynamic Endpoint**:
+  - `https://your-domain.vercel.app/api/[file]?file=filename.json`
+  - Use for any JSON file with query parameters
+
+### 📁 File Structure for Vercel
+
+```
+├── api/                    # Serverless functions
+│   ├── index.js           # Root overview HTML page
+│   ├── [file].js          # Dynamic JSON file server
+│   ├── kontak_saya.js     # Specific contact endpoint
+│   ├── coworker.js        # Coworker endpoint
+│   └── devteam.js         # Devteam endpoint
+├── output/                 # Your JSON files
+│   ├── kontak_saya.json
+│   ├── coworker.json
+│   ├── devteam.json
+│   └── *.json
+├── vercel.json            # Routing configuration
+└── package.json           # Deployment metadata
+```
+
+### 🔧 Vercel Configuration
+
+The `vercel.json` file handles:
+- **Clean URLs** - No .html extensions
+- **Routing** - Maps file requests to API endpoints
+- **Rewrites** - Automatically serves JSON files from output/ folder
+
+### 📊 Features
+
+- **Automatic Discovery** - Finds all JSON files in output/ folder
+- **Interactive UI** - Beautiful overview page with file information
+- **Security** - Path sanitization prevents directory traversal
+- **Error Handling** - Proper 404 and error responses
+- **JSON API** - Clean RESTful endpoints for all data
 
 ## Docker Setup
 
