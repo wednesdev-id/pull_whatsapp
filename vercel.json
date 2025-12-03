@@ -4,6 +4,30 @@
   "trailingSlash": false,
   "rewrites": [
     {
+      "source": "/api/v1",
+      "destination": "/api/v1/index"
+    },
+    {
+      "source": "/api/v1/contacts",
+      "destination": "/api/v1/contacts"
+    },
+    {
+      "source": "/api/v1/messages",
+      "destination": "/api/v1/messages"
+    },
+    {
+      "source": "/api/v1/files",
+      "destination": "/api/v1/files"
+    },
+    {
+      "source": "/api/v1/stats",
+      "destination": "/api/v1/stats"
+    },
+    {
+      "source": "/api/v1/utils",
+      "destination": "/api/v1/utils"
+    },
+    {
       "source": "/",
       "destination": "/api/index"
     },
@@ -23,5 +47,97 @@
       "source": "/(.*)",
       "destination": "/api/[file]?file=$1"
     }
-  ]
+  ],
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Access-Control-Allow-Methods",
+          "value": "GET, POST, PUT, DELETE, OPTIONS"
+        },
+        {
+          "key": "Access-Control-Allow-Headers",
+          "value": "Content-Type, Authorization, X-Requested-With"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)\\.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, must-revalidate"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ],
+  "functions": {
+    "api/v1/contacts.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/v1/messages.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/v1/files.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/v1/stats.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/v1/index.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/v1/utils.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/index.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/kontak_saya.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/coworker.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/devteam.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/[file].js": {
+      "runtime": "nodejs18.x"
+    }
+  }
 }
