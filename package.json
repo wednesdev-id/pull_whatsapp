@@ -1,5 +1,23 @@
 {
   "name": "whatsapp-output-vercel",
   "version": "1.0.0",
-  "description": "Vercel deployment for WhatsApp JSON outputs"
+  "description": "Vercel deployment for WhatsApp JSON outputs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node -e \"console.log('Testing server...'); require('./server.js');\"",
+    "waha-test": "python waha_automator.py --test-connection",
+    "waha-fetch": "python waha_automator.py --limit 100 --offset 0",
+    "waha-fetch-custom": "python waha_automator.py --chat-id 6282243673017@c.us --limit 200 --offset 100",
+    "waha-mock": "python waha_automator.py --mock-data --limit 10",
+    "waha-scheduler": "python waha_scheduler.py"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["whatsapp", "api", "json", "messages", "contacts"],
+  "author": "",
+  "license": "ISC"
 }

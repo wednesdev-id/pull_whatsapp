@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-export default function handler(req, res) {
+module.exports = function handler(req, res) {
   try {
     const outputDir = path.join(process.cwd(), 'output');
     const files = fs.readdirSync(outputDir).filter(file => file.endsWith('.json'));

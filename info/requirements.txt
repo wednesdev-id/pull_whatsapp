@@ -10,3 +10,7 @@ colorama>=0.4.6        # For colored terminal output
 pytest>=7.0.0          # For testing
 black>=23.0.0          # For code formatting
 flake8>=6.0.0          # For linting
+
+requests>=2.31.0
+schedule>=1.2.0
+python-dotenv>=1.0.0

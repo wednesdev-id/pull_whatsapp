@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "chat_id": "6282243673017@c.us",
+    "retrieved_at": "2025-12-04T15:37:31.517149",
+    "total_messages": 10,
+    "api_response": {
+      "status": "success",
+      "timestamp": "2025-12-04T15:37:31.517154"
+    }
+  },
+  "messages": [
+    {
+      "id": "mock_msg_0_1764837451",
+      "timestamp": 1764837451,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Oke, saya cek dulu ya",
+      "fromMe": false,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 1
+    },
+    {
+      "id": "mock_msg_1_1764830251",
+      "timestamp": 1764830251,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Halo, bagaimana kabarnya?",
+      "fromMe": false,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 1
+    },
+    {
+      "id": "mock_msg_2_1764823051",
+      "timestamp": 1764823051,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Siap, saya tunggu update nya",
+      "fromMe": false,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 1
+    },
+    {
+      "id": "mock_msg_3_1764815851",
+      "timestamp": 1764815851,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Terima kasih atas bantuannya",
+      "fromMe": true,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 1
+    },
+    {
+      "id": "mock_msg_4_1764808651",
+      "timestamp": 1764808651,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Sampai jumpa besok!",
+      "fromMe": true,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 3
+    },
+    {
+      "id": "mock_msg_5_1764801451",
+      "timestamp": 1764801451,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Have a great day!",
+      "fromMe": true,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 2
+    },
+    {
+      "id": "mock_msg_6_1764794251",
+      "timestamp": 1764794251,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Documents sudah saya kirim",
+      "fromMe": true,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 2
+    },
+    {
+      "id": "mock_msg_7_1764787051",
+      "timestamp": 1764787051,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Baik-baik saja, terima kasih!",
+      "fromMe": true,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 2
+    },
+    {
+      "id": "mock_msg_8_1764779851",
+      "timestamp": 1764779851,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Halo, bagaimana kabarnya?",
+      "fromMe": true,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 3
+    },
+    {
+      "id": "mock_msg_9_1764772651",
+      "timestamp": 1764772651,
+      "from": "6282243673017@c.us",
+      "to": "6282243673017@c.us",
+      "body": "Documents sudah saya kirim",
+      "fromMe": true,
+      "hasMedia": false,
+      "mediaType": null,
+      "mediaCaption": null,
+      "ack": 2
+    }
+  ]
+}

@@ -1,6 +1,7 @@
+const path = require('path');
 const { CONFIG, Utils } = require('./config');
 
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
   // Handle different HTTP methods
   switch (req.method) {
     case 'GET':
@@ -144,7 +145,7 @@ async function handleGet(req, res) {
     messages = messages.slice(startIndex, startIndex + limitCount);
 
     // Extract requested fields
-    if (fields) {
+    if (fields && typeof fields === 'string') {
       const requestedFields = fields.split(',').map(f => f.trim());
       messages = messages.map(msg => {
         const result = {};
